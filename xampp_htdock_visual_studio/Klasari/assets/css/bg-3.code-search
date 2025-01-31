@@ -1,0 +1,9 @@
+# Query: bg-3
+# ContextLines: 1
+
+1 result - 1 file
+
+assets\css\style.css:
+   9  	height: 40vh;
+  10: 	background: linear-gradient(90deg, rgba(0,0,0,.5),rgba(0,0,0,.7)), url("../img/bg-4.jpg");
+  11  	background-size: cover;
